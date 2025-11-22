@@ -16,12 +16,19 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m an engineering student passionate about building **full-stack applications**, **ML-based solutions**, and **data-driven systems**.  
-I enjoy solving real-world problems using clean, maintainable code and scalable design.
+I'm an undergraduate engineer at NIT Andhra Pradesh who enjoys turning ideas into **functional, user-friendly tech** — whether it's a full-stack web app, a small ML workflow, or a data-driven automation tool.
 
-- Strong in **DSA**, backend logic, problem-solving  
-- Love working with **React, Node, Python, and ML frameworks**  
-- Interested in **AI apps**, automation & high-performance systems
+I like building systems that are **simple, efficient, and scalable**, with clean logic behind them.  
+Most of my work revolves around:
+
+- real-time, full-stack applications.  
+- ML pipelines and data handling.  
+- backend systems that solve practical problems. 
+
+I love understanding *how things work* — from algorithms and API design to system behaviour under load.  
+Currently exploring **AI applications**, automation, and ways to combine software with biotechnology to build smarter solutions.
+
+If something involves learning, experimenting, or building from scratch — I’m in.
 
 ---
 
