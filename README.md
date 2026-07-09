@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%"/>
+<img src="./banner.png" width="100%"/>
 
 <a href="https://jksanthosh.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Biotechnology+%2B+Software+Engineering;Building+ML+systems+that+ship%2C+not+just+notebooks" alt="Typing SVG" />
