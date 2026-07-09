@@ -1,83 +1,101 @@
-<h1 align="center">Hi 👋, I'm <strong>Santhosh J K</strong></h1>
-<h3 align="center">Biotechnology Undergraduate • Full-Stack Developer • ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jksanthosh159/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jksanthosh159@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jksanthosh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="./assets/banner.png" width="100%"/>
 
----
+<a href="https://jksanthosh.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Biotechnology+%2B+Software+Engineering;Building+ML+systems+that+ship%2C+not+just+notebooks" alt="Typing SVG" />
+</a>
 
-## 👨‍💻 About Me  
-I'm an undergraduate engineer at NIT Andhra Pradesh who enjoys turning ideas into **functional, user-friendly tech** — whether it's a full-stack web app, a small ML workflow, or a data-driven automation tool.
+<br/>
 
-I like building systems that are **simple, efficient, and scalable**, with clean logic behind them.  
-Most of my work revolves around:
+<a href="https://www.linkedin.com/in/jksanthosh159/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jksanthosh159@gmail.com"><img src="https://img.shields.io/badge/-Email-2C5364?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://jksanthosh.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00C9FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://www.instagram.com/j_k_santhosh/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-- real-time, full-stack applications.  
-- ML pipelines and data handling.  
-- backend systems that solve practical problems. 
+</div>
 
-I love understanding *how things work* — from algorithms and API design to system behaviour under load.  
-Currently exploring **AI applications**, automation, and ways to combine software with biotechnology to build smarter solutions.
+<br/>
 
-If something involves learning, experimenting, or building from scratch — I’m in.
+## Profile
 
----
+Not every problem needs more code. Sometimes it needs better decisions, better systems, and better execution.
 
-## 💡 Skills  
+I'm a Final-Year B.Tech student at NIT Andhra Pradesh who enjoys working where technology, data, and business intersect. My experience spans software development, analytics, operations, automation, and strategy—allowing me to understand both how things are built and why they matter.
 
-### **Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
+I am not here to list frameworks. I am here to build things that hold up under real data and real deadlines.
+<br/>
 
-### **Web Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-</p>
+## Experience
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### **Machine Learning & Data**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
+**Vitto** · Product Development Intern
+`May 2026 – Present`
 
-### **Other Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/>
-</p>
+Driving end-to-end product development through fintech research, product documentation, testing, and strategic execution.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎓 Education  
-**B.Tech Biotechnology (Minor in Software Engineering)**  
-*National Institute of Technology, Andhra Pradesh — CGPA: 8.74/10*
+**VDart Inc.** · Software Development Intern
+`May 2025 – Jun 2025`
 
----
+Developed internal tools and automated workflows to streamline operational processes and reporting.
 
-<h3 align="center">✨ Thanks for visiting!</h3>
-<p align="center">I'm always open to collaborations and new ideas.</p>
+</td>
+</tr>
+</table>
+<br/>
+
+## Major Works
+
+Each of these solves a specific, bounded problem rather than demonstrating a technology for its own sake.
+
+**Drug-Drug Interaction Risk Assessment**
+An end-to-end ML pipeline using molecular descriptors to classify interaction severity from pharmacological data. Feature engineering, hyperparameter tuning, and SHAP-based explainability took this to 92% classification accuracy on unseen data — presented at the MBNHA 2025 conference.
+`github.com/Santhoshjk159/DDI`
+
+**Lunabot — Autonomous Rover Navigation Dashboard**
+Built for ISRO's Smart India Hackathon problem statement. Real-time telemetry dashboard unifying sensor streams, navigation data, and mission parameters, with simulation-validated navigation drift below 1% per km. Live anomaly detection brought fault identification under 30 seconds and cut prototype iteration cost 5 to 7 times over.
+`github.com/Santhoshjk159/Lunabot`
+
+**Physics-Informed Modeling of Shape Memory Alloys**
+A deep learning framework in PyTorch modeling the nonlinear thermomechanical behavior of NiTi alloys across 10,000+ simulated thermal-loading scenarios. A multi-output network jointly predicts stress response and phase transformation, cutting inference from hours to milliseconds.
+`github.com/Santhoshjk159/SMA`
+<br/>
+
+## Recognition
+
+| | |
+|---|---|
+| Winner | Smart India Hackathon 2025 — ISRO, autonomous lunar rover navigation |
+| Winner | SRUJANA 2026 State-Level Hackathon — AI-powered fault detection and predictive monitoring |
+| Incubation | IIC Ignition Grant, NIT AP — EMI-hardened autonomous rover for HV substation monitoring |
+| Certified | Infosys Springboard — Data Science, Statistics, and ML Fundamentals |
+
+<br/>
+
+## Technical Foundation
+
+```
+Languages        Java · Python · C++ · JavaScript · SQL · R
+Core CS          Data Structures & Algorithms · OOP · Operating Systems · DBMS · Networks · System Design
+Web              React.js · Node.js · Express.js · REST APIs · Tailwind CSS
+ML & AI          PyTorch · Scikit-learn · Deep Learning · Feature Engineering · Explainable AI (SHAP)
+Data             Pandas · NumPy · MySQL · ETL Pipelines · Matplotlib
+Tooling          Git · Docker · Linux · n8n · API Integration
+```
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+**Education:** B.Tech Biotechnology, Minor in Software Engineering — NIT Andhra Pradesh, CGPA 8.75 · 2023–2027
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
