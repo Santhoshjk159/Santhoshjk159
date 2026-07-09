@@ -95,6 +95,5 @@ Tooling          Git · Docker · Linux · n8n · API Integration
 
 **Education:** B.Tech Biotechnology, Minor in Software Engineering — NIT Andhra Pradesh, CGPA 8.75 · 2023–2027
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 </div>
